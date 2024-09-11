@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "migrate-wix-groups",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "SOMOS.tech",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@wix/dashboard": "^1.3.21",
+    "@wix/groups": "^1.0.98",
+    "@wix/members": "^1.0.96",
+    "@wix/sdk": "^1.12.12"
+  }
+}
