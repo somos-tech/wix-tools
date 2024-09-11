@@ -4,7 +4,7 @@ This repository contains tools used by [SOMOS.tech](https://www.somos.tech/) to 
 
 ## Tools
 
-- **[Wix Membership Migration](wix-membership-migration/)**: Scripts for exporting and importing user groups and memberships.
+- **[Wix Membership Migration](migrate-wix-groups/)**: Scripts for exporting and importing user groups and memberships.
 
 ## Future Additions
 
